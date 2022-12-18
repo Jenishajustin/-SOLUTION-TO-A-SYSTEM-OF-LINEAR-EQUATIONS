@@ -30,7 +30,7 @@ print(sol)
 
 ## Output:
 
-![MODEL](solving-linear-equations-output.png)
+![solving-linear-equations-output.png]
 
 
 ## Result: 
